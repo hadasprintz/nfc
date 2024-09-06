@@ -28,3 +28,4 @@ C:\Users\97250\OneDrive - post.bgu.ac.il\מסמכים\הנדסת תוכנה תו
 C:\Users\97250\OneDrive - post.bgu.ac.il\מסמכים\הנדסת תוכנה תואר ראשון\קורס יזמות ברפואה\HostServer\HostServer\obj\Debug\net8.0\HostServer.pdb
 C:\Users\97250\OneDrive - post.bgu.ac.il\מסמכים\הנדסת תוכנה תואר ראשון\קורס יזמות ברפואה\HostServer\HostServer\obj\Debug\net8.0\HostServer.genruntimeconfig.cache
 C:\Users\97250\OneDrive - post.bgu.ac.il\מסמכים\הנדסת תוכנה תואר ראשון\קורס יזמות ברפואה\HostServer\HostServer\obj\Debug\net8.0\ref\HostServer.dll
+C:\Users\97250\OneDrive - post.bgu.ac.il\מסמכים\הנדסת תוכנה תואר ראשון\קורס יזמות ברפואה\HostServer\HostServer\obj\Debug\net8.0\HostServer.sourcelink.json
