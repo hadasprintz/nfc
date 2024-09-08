@@ -145,7 +145,6 @@ function clearDots() {
 }
 
 function popup() {
-  
   const popup = document.getElementById('popup');
   const targetLocationInput = document.getElementById('targetLocationInput');
   const submitLocationButton = document.getElementById('submitLocation');
@@ -187,7 +186,6 @@ function popup() {
   }
 }
 
-
 // popup request for target location for the first time
 document.addEventListener('DOMContentLoaded', () => {
     // Reset target button logic
@@ -198,7 +196,6 @@ document.addEventListener('DOMContentLoaded', () => {
         clearDots();
         popup();
     });
-    
     popup();
 });
 
