@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NFCgate</title>
+    <!-- Graph library connection -->
+    <script src="https://unpkg.com/graphlib@2.1.8/dist/graphlib.min.js"></script>
+    <script src="script.js" defer></script>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div id="topSection">
+      <h1 id="message">Follow highlighted route</h1>
+      <button id="clearStorage">Reset Target</button>
+    </div>
+
+    <div id="graph-container">
+      <!-- Visualization Container -->
+        <img src="https://cdn.glitch.global/bce04acb-a17e-47d8-b23d-a08c7f9a0254/demo%20floorplan.png?v=1725776086895" alt="Graph Image" id="graphImage" />
+        <div id="dots"></div> <!-- Container for dots -->
+    </div>
+
+    <!-- Popup HTML -->
+    <div id="popup" class="hidden">
+        <div id="popup-content">
+            <h2>Enter Target Location</h2>
+            <input type="text" id="targetLocationInput" placeholder="Enter target location">
+            <button id="submitLocation">Submit</button>
+        </div>
+    </div>
+  
+</body>
+</html>
